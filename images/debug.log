@@ -1,0 +1,11 @@
+[0211/220125.694:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0211/220125.810:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0211/220125.860:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0211/220135.911:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0212/220325.630:ERROR:backend_impl.cc(1062)] Critical error found -8
+[0213/000839.874:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0213/000840.074:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0213/035555.822:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0213/035555.943:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0213/114251.449:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0213/141022.627:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.

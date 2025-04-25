@@ -1,0 +1,21 @@
+.main-layout {
+    line-height: 1.80857;
+    font-weight: normal;
+    background-color:#dfebf7 !important;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-purple {
+    background-color: #1f1d47 !important;
+    
+}
+.card .card-title{
+    color: #1f1d47 ;
+    font-family: 'Poppins', sans-serif !important;
+    background-color: white;
+}
+.footer{
+    background-color:#1f1d47;
+}
+
